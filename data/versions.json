@@ -1,0 +1,217 @@
+{
+ "country": "BR-PA-SANTAREM",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Santarém",
+   "title": "Lei Orgânica do Município de Santarém",
+   "url": "https://sapl.santarem.pa.leg.br/norma/132",
+   "versions": [
+    {
+     "from": "1990-04-05",
+     "units": 158,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/0,1990-04-05,1994-02-01:prieGYmZgNsmykZ10RtEQstE_rg/",
+     "sha256": "30652dc3757544f483eed828ba7d5b154164f1811cb07fa9e76f40c4bf920cca"
+    },
+    {
+     "from": "1994-02-02",
+     "units": 158,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/54,1994-02-02,1997-11-24:VSpW3MDNolDQcgQh0aGktrJTDyg/",
+     "sha256": "ee41c6723580a5abc14703f2826b29c0236788233b5569697bf0b8f4a2841ccf"
+    },
+    {
+     "from": "1997-11-25",
+     "units": 158,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/55,1997-11-25,2001-06-24:UAoKomYCyhIQwvWuv2rua6h5PDE/",
+     "sha256": "42574c7eaaf8185e6d4dde35a36a513c5861a8376f0cef6b0cd16e4d03f58e79"
+    },
+    {
+     "from": "2001-06-25",
+     "units": 158,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/56,2001-06-25,2002-06-09:dbsHZpWCarHpau2AxVPATA5WDSM/",
+     "sha256": "37aeaf8e8e9d34cad5e32d402a992bfef65e9206c9cffe1d5b1151e8a289ea38"
+    },
+    {
+     "from": "2002-06-10",
+     "units": 158,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/57,2002-06-10,2002-12-10:t3ntWVYTtk0lTzdXq2yf8mx5FWE/",
+     "sha256": "7f7d7bb96eb9cad6b14036d9a0df48ad4f0a6eb8c12ef66059445ac03a44e1b5"
+    },
+    {
+     "from": "2002-12-11",
+     "units": 158,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/58,2002-12-11,2004-11-30:CHTVmkWFVcVMZOZfAkfrYHkeP-g/",
+     "sha256": "302e84dfeb6f97c2200588e7f691d86b5e506ba3d39927ee23aa5aeb82231fbe"
+    },
+    {
+     "from": "2004-12-01",
+     "units": 162,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/10,2004-12-01,2008-05-18:dMTe9cWsFbALD6HoSoReHO0Oqo0/",
+     "sha256": "ce6be9cb30f71c3b0f7cd49432bf00125494b3601c893502b7d5af1e67b96868"
+    },
+    {
+     "from": "2008-05-19",
+     "units": 162,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/59,2008-05-19,2008-06-22:ha2_9Y7I8JxRgdAXWCI6O5Ff2js/",
+     "sha256": "089279645e5da8b4fb593935f100b8173d6a0f3375313d407891e80dae780803"
+    },
+    {
+     "from": "2008-06-23",
+     "units": 162,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/60,2008-06-23,2009-11-24:LD0cE4Xeyr3QVPXUXPQtxebQ-JU/",
+     "sha256": "9e39c9dd2c4d015139f8777c24e3b28a543f1b090c078ab88b5b72830eded02d"
+    },
+    {
+     "from": "2009-11-25",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/61,2009-11-25,2010-05-23:wmtj_FsXImCNrPlBrSraSFL28IE/",
+     "sha256": "7018e2f7ab88a23774993cbad0a52a78d31419da66574941ee77d20d5ca2b4a4"
+    },
+    {
+     "from": "2010-05-24",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/62,2010-05-24,2011-09-27:lvRHcFqd3Rsj28pz7OIP6Lxcazo/",
+     "sha256": "97c15ca5e1a38bc2f0f461b50583d1359ee4131dd145d1780a74a226e5332533"
+    },
+    {
+     "from": "2011-09-28",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/63,2011-09-28,2011-12-18:RwtRBhISrvb32_7NkJJd03UUZh0/",
+     "sha256": "ae1bcf8eeb0f23e96c8095f6f9628f8781e65533bcbbadceda360073e32091a6"
+    },
+    {
+     "from": "2011-12-19",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/64,2011-12-19,2012-09-09:yjwp60oNOKwVaxqS22bmbOH-6f8/",
+     "sha256": "cad2df1cfe930952f66fb34e1a94e0fd63ab5dcdb1a512eb5aa9282b9178ffc4"
+    },
+    {
+     "from": "2012-09-10",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/65,2012-09-10,2012-12-26:8BOjhAGs3dgWPknvpIqI20E5QPI/",
+     "sha256": "f328e8e868c822d48c98e3366cf4b0e774c7aeb217b964a03c5ce75119e47e45"
+    },
+    {
+     "from": "2012-12-27",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/66,2012-12-27,2013-03-12:B6JoXNvoekoQhZ1C5g_2JAo-EAU/",
+     "sha256": "fa400b9b93702b8adcfca37f76b822cf6ef1548f03d68f64493894f08b476061"
+    },
+    {
+     "from": "2013-03-13",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/67,2013-03-13,2013-11-24:w-b9Uy3KAQQTvoNngA6jizLjhtM/",
+     "sha256": "f6f00262d8391f682aecc70e939caab11d7d48e0d2e78751f50e3c6ecf74fd6e"
+    },
+    {
+     "from": "2013-11-25",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/68,2013-11-25,2014-01-01:4L5PRq-YxCJTC2jIr3uQNmppfsc/",
+     "sha256": "18cebb396c22ac7511bbc8b5968e268f89c200f456e23a180e2a6e03ec6c72c3"
+    },
+    {
+     "from": "2014-01-02",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/69,2014-01-02,2014-03-09:2Q_PBM2vzyx3YJhlUdJuAl1TDGA/",
+     "sha256": "56d12f87289a49d63ab0eeae528991fa18e7a4acc7da674af09e4e7f901b57fd"
+    },
+    {
+     "from": "2014-03-10",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/70,2014-03-10,2014-08-12:42RJUIg9gtJLzO6F_xh5LrvDCyU/",
+     "sha256": "6886569a729c6f4d6793a3fa490f0b76fbb45c7d73c3a2e45380258d26db5f71"
+    },
+    {
+     "from": "2014-08-13",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/71,2014-08-13,2015-03-22:PLKF5uNH9KKIKilOX8wblTQL7uk/",
+     "sha256": "f83f50f69153de5a2fb4ea116234c3d58c0ee3dd40f9d9ee267cf9d2c9b6c5c1"
+    },
+    {
+     "from": "2015-03-23",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/72,2015-03-23,2015-04-14:k017wMwWVhRhNh1HiqCsCM51suE/",
+     "sha256": "470ecf795aa8c1d8cda5b705d6723997bd994ae51b35f97ab8c506f665e05790"
+    },
+    {
+     "from": "2015-04-15",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/73,2015-04-15,2016-12-13:fBZCfJZfED75oXNrCVPauxjbfpw/",
+     "sha256": "6b5409e5c2df133c0d94920781793bd99227ab9ba06408a229b63134b66e5b42"
+    },
+    {
+     "from": "2016-12-14",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/74,2016-12-14,2017-04-09:oI974rkJdv2MvEkEjhLG3OhP3zo/",
+     "sha256": "febfc863e905bc7c937f99b5623ead589f8f589daa77a3fc20ce0cedce1468bf"
+    },
+    {
+     "from": "2017-04-10",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/76,2017-04-10,2017-06-25:wrYsXQYm7Z9_kJoaNxxXTbZHzmk/",
+     "sha256": "6f283441e38025234b7816f36614a9c670c982dd29100cc1c3359b85153c9361"
+    },
+    {
+     "from": "2017-06-26",
+     "units": 163,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/77,2017-06-26,2017-10-22:6gMmgX1lZda0qsXrWBM7LkDHpA8/",
+     "sha256": "cba6bc0eb4a9c428dd246a988e412db31a14cb2ee51c1eb584b44b15fa9de57e"
+    },
+    {
+     "from": "2017-10-23",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/78,2017-10-23,2017-12-11:dQgpK56-s6knanN9j2myr6prYNM/",
+     "sha256": "11888819a48963c4429deea15a81a0d542fa571dcde7cbe172c69a8c98a77422"
+    },
+    {
+     "from": "2017-12-12",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/79,2017-12-12,2019-10-20:DKT1r5QV917uX9qKPgJy-7gYHiM/",
+     "sha256": "bed99656dc6647813e2fcfb9a4188ab3703981ca95f561674b4a83d1a784e3cd"
+    },
+    {
+     "from": "2019-10-21",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/80,2019-10-21,2020-07-26:-JVdoIGYmW_vcQ-LzbZpQsXCmag/",
+     "sha256": "d9c0c12fd9750f6a78b635ad730f06f2888479ec9632d64977e1ec42ca703fcc"
+    },
+    {
+     "from": "2020-07-27",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/30,2020-07-27,2021-04-05:3IvMJ4-hmMZ0yayJ-oVck2hDKxI/",
+     "sha256": "96db990965a3570c28fff13406a1ed92dbbd9d18c0f0a91e4354710459856fda"
+    },
+    {
+     "from": "2021-04-06",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/97,2021-04-06,2021-12-13:zrKfx2_SX5Z6v6kMnNxhEFdKiGc/",
+     "sha256": "1fd66825c9fb7b8b6f53324fb0382182a81d8c2b3ddc7adf3153aa317de61c5d"
+    },
+    {
+     "from": "2021-12-14",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/102,2021-12-14,2022-02-13:Uz59eC3xdksRdNky8pBdeBSOtxU/",
+     "sha256": "e8a7e1760406a50252eaddad1661b6a816700330e0190c28a8430b8e82e53ff3"
+    },
+    {
+     "from": "2022-02-14",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/105,2022-02-14,2023-04-23:2ZMNGcRoG9FhoyKcF1RVuDfRuqg/",
+     "sha256": "400d7ae89c75c9c181ec8c762e1a277d128c041643fc78cca7377aa657aa8365"
+    },
+    {
+     "from": "2023-04-24",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/ta/15/text/vigencia/110,2023-04-24,2025-09-21:TMhiLvFl9Jx3MQexy9kl6euOVnU/",
+     "sha256": "e533a762a42d7dc7fd98000f24f5d82d1837077d833e68f8a20d934aaee09cd8"
+    },
+    {
+     "from": "2025-09-22",
+     "units": 164,
+     "source_url": "https://sapl.santarem.pa.leg.br/norma/132",
+     "sha256": "5c4fcfeb6b1f2ee2d6d0205cd04d562f182a78f4b9f80778e6e3798738f0bbe8"
+    }
+   ]
+  }
+ ]
+}

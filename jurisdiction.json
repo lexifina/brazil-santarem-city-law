@@ -1,0 +1,9 @@
+{
+  "path": "br-pa-santarem",
+  "code": "BR-PA-SANTAREM",
+  "name": "Santarém (city)",
+  "level": "municipality",
+  "parent": "br-pa",
+  "repo": "https://github.com/lexifina/brazil-santarem-city-law",
+  "build": "built: the law of Santarém from the Câmara Municipal's SAPL"
+}
