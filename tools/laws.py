@@ -215,6 +215,9 @@ def main():
         print('no law index yet')
         return
     idx = json.loads(INDEX.read_text(encoding='utf-8'))
+    if not idx['types'] or not idx['records']:
+        print('SAPL lists no laws of the Lei / Lei Complementar types')
+        return
     kinds = {idx['types'][0]: 'lei'}
     if len(idx['types']) > 1:
         kinds[idx['types'][1]] = 'lc'

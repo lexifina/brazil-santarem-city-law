@@ -212,6 +212,20 @@
      "sha256": "5c4fcfeb6b1f2ee2d6d0205cd04d562f182a78f4b9f80778e6e3798738f0bbe8"
     }
    ]
+  },
+  {
+   "slug": "lc-2010-00003",
+   "short": "LC 3/2010",
+   "title": "Lei Complementar nº 3, de 12 de novembro de 2010",
+   "url": "https://sapl.santarem.pa.leg.br/norma/514",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 5,
+     "source_url": "https://sapl.santarem.pa.leg.br/media/sapl/public/normajuridica/2010/514/514_texto_integral.pdf",
+     "sha256": "c6e129e8a785e6a7ff385d0e1bede667b4d2dd86eaed61f74c416b1b4824230e"
+    }
+   ]
   }
  ]
 }
